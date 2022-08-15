@@ -39,3 +39,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeminiWolf&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GeminiWolf&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeminiWolf&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GeminiWolf&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
