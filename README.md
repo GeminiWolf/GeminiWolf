@@ -24,8 +24,6 @@
 
 ![GeminiWolf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeminiWolf&theme=chartreuse-dark&show_icons=true&hide_border=true)
 
-![GeminiWolf's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GeminiWolf&theme=chartreuse-dark&hide_border=true)
-
 ![GeminiWolf's Stats](https://github-readme-stats.vercel.app/api?username=GeminiWolf&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🏆 GitHub Trophies
